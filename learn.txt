@@ -1,2 +1,2 @@
 React Basic
-026 Monsters Rolodex - Searching & Filtering
+032 Monsters Rolodex - Component Props
