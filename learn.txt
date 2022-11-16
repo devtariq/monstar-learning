@@ -1,3 +1,2 @@
 React Basic
-
-008 Create React App - React-Scripts 1
+026 Monsters Rolodex - Searching & Filtering
