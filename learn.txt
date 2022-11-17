@@ -1,2 +1,2 @@
 React Basic
-032 Monsters Rolodex - Component Props
+035 Monsters Rolodex - CSS in React
